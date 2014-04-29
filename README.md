@@ -1,7 +1,7 @@
 OpenerpNode
 ===========
 
-Proof of concept for Openerp
+Proof of concept for Openerp V8
 
 Login, Search and Read
 
